@@ -72,4 +72,9 @@ def has_player_won(game_board, symbol):
 	   ways."""
 	pass
 	
+
+def play_again():
+	""" Get user input and ask if they want to play again """
+	return True
+
 main()
