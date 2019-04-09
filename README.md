@@ -12,6 +12,8 @@ Recitation materials for `CS8: Intro to Python`.
 
 ## Recitation Slides
 
+### [Week 14](https://docs.google.com/presentation/d/1pE-jsDYqisDibCS3RkadZa0AX28LP0x1sqdFy5jPEhE/edit?ts=5cacf8fe#slide=id.p)
+
 ### [Week 13](https://docs.google.com/presentation/d/15uHET1ieCH3Xo_vXFP-2yaN3lc_5hn6tAmwe4OSyXJw/edit#slide=id.p)
 
 ### [Week 12](https://docs.google.com/presentation/d/1fcpSXxB-QASWWBj55MvDA8D88TjQhuJCi_-G6GKfGVg/edit)
